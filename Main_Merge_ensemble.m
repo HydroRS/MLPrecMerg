@@ -1,5 +1,5 @@
 % *************************************************************************
-%                        RF near-real-time SPP merge
+%     Merge satellite and gauge precipitation based on SML and DEML 
 %                   By Ling Zhang, zhanglingky@lzb.ac.cn
 %
 % Chinese Academy of Sciences
