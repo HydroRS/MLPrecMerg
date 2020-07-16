@@ -4,6 +4,8 @@ Merging mutiple satellite-based precipiation and gauge observation based on the 
 
 We have also uploaded the test data. The user can download the test data, and modify the root folder in the main program 'Main_Merge_ensemble.m'. Then the program can run directly. Note that the SVM algorithm is not a built-in matlab function, the users need to download dnd install the Libsvm package before running the program. 
 
+Plesase feel free to contact me if you have any questions, zhanglingky@lzb.ac.cn
+
 > Please cite the program as follows:
 Ling Zhang, Xin Li, Qimin Ma, Yanping Cao, Yingchun Ge. 2020, Merging satellite-based precipitation and gauge observations using a novel double machine learning approach (in preparation)
 
