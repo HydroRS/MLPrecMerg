@@ -1,4 +1,5 @@
 # Satellite-gauge-Precipitaiton-Merging
+![Satellite-gauge-Precipitaiton-Merging](https://github.com/zhanglingky/Satellite-gauge-Precipitation-Merging/blob/master/framwork.png)
 
 A tool used to merge mutiple satellite-based precipiation and gauge observation based on the single/double machine learning algorithms including RF, ANN, SVM, EML, RF-RF, RF-ANN, RF-SVM and RF-EML. The main program is 'Main_Merge_ensemble.m'. 
 
