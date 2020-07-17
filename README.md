@@ -3,7 +3,7 @@
 
 A tool used to merge mutiple satellite-based precipiation and gauge observation based on the single/double machine learning algorithms including RF, ANN, SVM, EML, RF-RF, RF-ANN, RF-SVM and RF-EML. The optimization of the paramters of the ML algorithms were implemented through the parallel computing technique. 
 
-The program can be easily applied to other fields such as ground water level mapping, soil moisture and precipiation downscaling, hydrological predctions, among others. These can be done just by changing the input and output variables. 
+The program can be easily applied to other fields such as ground water level mapping, soil moisture and precipitation downscaling, hydrological predictions, among others. These can be done just by changing the input and output variables. 
 
 
 Please feel free to contact me if you have any questions, zhanglingky@lzb.ac.cn
