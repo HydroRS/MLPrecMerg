@@ -14,5 +14,5 @@ Please feel free to contact me if you have any questions, zhanglingky@lzb.ac.cn
 
 # Citation
 > Please cite the program as follows:
-Ling Zhang, Xin Li, Qimin Ma, Yanping Cao, Yingchun Ge. 2020, Merging satellite-based precipitation and gauge observations using a novel double machine learning approach (in preparation)
+Ling Zhang, Xin Li, et al. 2020, Merging satellite-based precipitation and gauge observations using a novel double machine learning approach (in preparation)
 
