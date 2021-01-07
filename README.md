@@ -1,7 +1,7 @@
 # Satellite-gauge-Precipitaiton-Merging
 
 
-THis is a MATLAB toolbox used to merge mutiple satellite-based precipiation and gauge observation based on a novel double machine learning (DML) approach.The DML approach was mainly developed based on the classification model of random forest (RF) in combination with the regression models of the machine learning (ML) algorithms including RF, artificial neural network (ANN), support vector machine (SVM) and extreme learning machine (ELM). This led to four DML algorithms, i.e., RF-RF, RF-ANN, RF-SVM, and RF-LM. The optimization of the paramters of the ML algorithms were implemented through the parallel computing-based and grid-research (PC-GR). 
+This is a MATLAB toolbox used to merge mutiple satellite-based precipiation and gauge observation based on a novel double machine learning (DML) approach.The DML approach was mainly developed based on the classification model of random forest (RF) in combination with the regression models of the machine learning (ML) algorithms including RF, artificial neural network (ANN), support vector machine (SVM) and extreme learning machine (ELM). This led to four DML algorithms, i.e., RF-RF, RF-ANN, RF-SVM, and RF-LM. The optimization of the paramters of the ML algorithms were implemented through the parallel computing-based and grid-research (PC-GR). 
 
 The toolbox can be easily applied to other fields such as ground water level mapping, soil moisture and precipitation downscaling, hydrological predictions, among others. These can be done just by changing the input and output variables. 
 
