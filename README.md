@@ -6,7 +6,7 @@ This is a MATLAB toolbox used to merge mutiple satellite-based precipiation and 
 The toolbox can be easily applied to other fields such as ground water level mapping, soil moisture and precipitation downscaling, hydrological predictions, among others. These can be done just by changing the input and output variables. 
 
 # Framework
-![image]()
+![image](https://github.com/zhanglingky/ML-PrecMerg/blob/master/framework.jpg)
 
 # Usage
  The codes in included in the folder Src. TheThe main program is 'Main_Merge_ensemble.m'. We have also uploaded the test data. The user can download the test data, and modify the root folder in the main program 'Main_Merge_ensemble.m'. Then the program can run directly. Note that the SVM algorithm is not a built-in matlab function, the users need to download and install the Libsvm package before running the program. Libsvm package can be downloaded from heree https://www.csie.ntu.edu.tw/~cjlin/libsvm/, The version of your Matlab might not be compatibile with the new version, if so, you can use the 
