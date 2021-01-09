@@ -1,4 +1,4 @@
-# ML-PrecMerg: Machine learning (ML) based satellite-gauge precipitation merging apprpoach
+# MLPrecMerg: Machine learning (ML) based satellite-gauge precipitation merging approach
 
 
 This is a MATLAB toolbox used to merge mutiple satellite-based precipiation and gauge observation based on a novel double machine learning (DML) approach.The DML approach was mainly developed based on the classification model of random forest (RF) in combination with the regression models of the machine learning (ML) algorithms including RF, artificial neural network (ANN), support vector machine (SVM) and extreme learning machine (ELM). This led to four DML algorithms, i.e., RF-RF, RF-ANN, RF-SVM, and RF-LM. The optimization of the hyperparamters of the ML algorithms were implemented through the parallel computing-based and grid-research (PC-GR). 
