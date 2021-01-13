@@ -16,6 +16,6 @@ olde version: https://www.csie.ntu.edu.tw/~cjlin/libsvm/oldfiles/.
 # Citation
 > Please cite the program as follows:
 Ling Zhang, Xin Li, Donghai Zheng, et al. 2021, Merging satellite-based precipitation and gauge observations using a novel double machine learning approach, Journal of Hydrology
-
+https://www.sciencedirect.com/science/article/pii/S0022169421000160
 # Contact me
 Please feel free to contact me if you have any questions, zhanglingky@lzb.ac.cn
